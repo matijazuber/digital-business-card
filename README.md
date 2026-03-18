@@ -1,16 +1,26 @@
-# React + Vite
+# Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="./digital-card.png" alt="Digital Business Card Preview" width="600">
+</p>
 
-Currently, two official plugins are available:
+A sleek, responsive digital business card built for the modern web. Share your professional identity with a single link — no paper needed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Digital Business Card** is a lightweight, standalone web application that lets anyone create and share a personal or professional business card online. It is designed to be fast, mobile-friendly, and easy to customize — perfect for freelancers, creatives, developers, and small business owners who want a clean digital presence without the overhead of a full website.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Key Features
+
+- **One-Link Sharing** — Share your card via URL, QR code, or NFC tap.
+- **Responsive Design** — Looks great on any device, from phones to desktops.
+- **Dark and Light Mode** — Automatic theme switching based on user preference.
+- **Social Links** — Connect your GitHub, LinkedIn, Twitter/X, Instagram, portfolio, and more.
+- **vCard Download** — Visitors can save your contact info directly to their phone.
+- **Custom Theming** — Adjust colors, fonts, and layout to match your brand.
+- **Analytics Ready** — Optional lightweight tracking to see how many people view your card.
+- **No Backend Required** — Runs as a static site; deploy anywhere.
